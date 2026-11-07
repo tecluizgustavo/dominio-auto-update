@@ -1,0 +1,10 @@
+# Credenciais e estado locais: nunca versionar
+cred-*.xml
+*.cred
+*.secret
+ultimo_pacote_aplicado.txt
+
+# Logs gerados pela automacao e pelo diagnostico
+logs-auto/
+*.log
+diag.txt
